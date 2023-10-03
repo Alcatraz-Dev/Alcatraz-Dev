@@ -40,5 +40,5 @@
 
 
 ### 📈 My Github Contributtions 
-![Snake animation](https://github.com/alcatraz-dev/alcatraz-dev/blob/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alcatraz-dev/alcatraz-dev/workflows/blank/github-contribution-grid-snake.svg)
 
