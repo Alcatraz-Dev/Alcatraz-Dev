@@ -65,9 +65,9 @@
 <hr/>
 
 
+<h2 align="center">🔝 Top Contributed Repo 🔝</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alcatraz-dev&theme=dark&limit=5&combine_all_yearly_contributions=true)
+<p align="center"><img  src="https://github-contributor-stats.vercel.app/api?username=alcatraz-dev&theme=dark&limit=5&combine_all_yearly_contributions=true" /></p>
 
 <br/>
 <hr/>
