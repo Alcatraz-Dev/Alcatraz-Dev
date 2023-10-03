@@ -19,7 +19,7 @@
 
 <div align="center"> 
   <a href="https://alcatraz-portfolio.vercel.app/" target="_blank">
-     <img src="https://alcatraz-portfolio.vercel.app/LogoImage.png" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://alcatraz-portfolio.vercel.app/LogoImage.png" width="50" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
