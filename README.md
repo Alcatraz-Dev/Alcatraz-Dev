@@ -52,8 +52,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alcatraz-dev&theme=dark&show_icons=true&locale=en" alt="alcatraz-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alcatraz-dev&theme=dark" alt="alcatraz-dev" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alcatraz-dev&" alt="alcatraz-dev" /></p>
 </div>
 
 <br/><br/>
@@ -62,6 +61,6 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alcatraz-dev&theme=dark&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=alcatraz-dev&theme=dark&limit=5&combine_all_yearly_contributions=true)
 
 
