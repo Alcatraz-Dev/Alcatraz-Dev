@@ -52,7 +52,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alcatraz-dev&theme=dark&show_icons=true&locale=en" alt="alcatraz-dev" /></p>
 
-<p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alcatraz-dev&theme=dark" alt="alcatraz dev" /></p>
+<p><img src="https://streak-stats.demolab.com/?user=alcatraz-dev&theme=dark" alt="alcatraz dev" /></p>
 
 </div>
 
