@@ -47,7 +47,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alcatraz-dev)](https://git.io/streak-stats)
+![[](https://streak-stats.demolab.com/?user=alcatraz-dev)](https://git.io/streak-stats)
 </div>
 
 <br/><br/>
