@@ -37,7 +37,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,csharp,java,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c#,java,nextjs" /><br>
     <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,tailwind,git" />
 </div>
 <h3 align="left">Support:</h3>
