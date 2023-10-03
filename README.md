@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,unity,nextjs" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,tailwind,git,ae" />
 </div>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/AlcatrazDev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AlcatrazDev" /></a>
