@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haythem+Dhahri!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Haythem+Dhahri+!;" />
 </h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/alcatraz-dev/alcatraz-dev/main/alcatrazdev-banner.jpeg"> </div>
 <h3 align="center">A passionate game developer and web developer from Tunis</h3>
