@@ -37,10 +37,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,unity,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,unity,nextjs" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,visualstudio,figma,tailwind,git,ae" /><br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,azure,bash,blender,cs,git,godot,graphql,ai,md,netlify,ps,planetscale,prisma" /><br>
-    <img src="https://skillicons.dev/icons?i=redux,sass,supabase,threejs,unreal,vite" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,azure,bash,blender,cs,git,godot,graphql,ai,md,netlify,ps" /><br>
+    <img src="https://skillicons.dev/icons?i=redux,sass,supabase,threejs,unreal,vite,planetscale,prisma,github,python," />
 </div>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/AlcatrazDev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AlcatrazDev" /></a>
